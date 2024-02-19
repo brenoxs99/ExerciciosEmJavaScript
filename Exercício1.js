@@ -4,5 +4,4 @@
   “Olá [nome do usuário], seja bem-vindo ao mundo da programação!”*/
 
 let name = prompt("Digite seu nome: ");
-
-console.log("Olá " + name + " Seja bem vindo ao mundo da programação");
+console.log("Olá " + name + " Seja bem vindo ao mundo da programação!");
