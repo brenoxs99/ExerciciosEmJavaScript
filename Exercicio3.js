@@ -4,8 +4,8 @@
     //Dica a fórmula de conversão é: Fahrenheit = (Celsius * 9/5) + 32;
 
 
-    /*ESSA VERSÃO DO CÓDIGO SERIA PARA RODAR NO PRÓPRO NAVEGADOR
-     ULTILIZEI NELA O MÉTODO PROMPT(); PARA SOLICITAR DADOS DO USUÁRIO
+    /*ESSA VERSÃO DO CÓDIGO, PODE-SE RODAR NO PRÓPRO NAVEGADOR OU EM QUALQUER 
+     COMPILADOR ONLINE. ULTILIZEI NELA O MÉTODO PROMPT(); PARA SOLICITAR DADOS DO USUÁRIO.
      ------------------------------------------------------------------*/
 
     let Celsius = prompt('Digite a temperatura em Celsius: ');
