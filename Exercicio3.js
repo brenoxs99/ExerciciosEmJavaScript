@@ -1,7 +1,8 @@
-//Crie um programa que converta graus Celsius para Fahrenheit. 
-//Peça ao usuário a temperatura em Celsius 
-//e depois exiba o equivalente em Fahrenheit.
-    //Dica a fórmula de conversão é: Fahrenheit = (Celsius * 9/5) + 32;
+/*EXERCÍCIO 3 
+  Crie um programa que converta graus Celsius para Fahrenheit. 
+  ça ao usuário a temperatura em Celsius 
+  e depois exiba o equivalente em Fahrenheit.
+    Dica a fórmula de conversão é: Fahrenheit = (Celsius * 9/5) + 32;*/
 
 
     /*ESSA VERSÃO DO CÓDIGO, PODE-SE RODAR NO PRÓPRO NAVEGADOR OU EM QUALQUER 
@@ -14,7 +15,7 @@
 
 
     /*PORÉM SE VOCE ESTÁ RODANDO SEUS "Scripts.js" NO AMBIENTE Node.js 
-      O MÉTODO PROMPT NÃO ESTÁ DISPONÍVEL COM FUNÇÃO, LOGO CÓDIGO ACIMA 
+      O MÉTODO PROMPT NÃO ESTÁ DISPONÍVEL COMO FUNÇÃO, LOGO CÓDIGO ACIMA 
       IRÁ APRENSENTAR ERROS. MAS LOGO ABAIXO, FIZ UMA SEGUNDA VERSÃO DESTE *Exercício*
       PARA QUE CONSIGA RODAR EM AMBIENTE Node.js .
       ------------------------------------------------------------------*/

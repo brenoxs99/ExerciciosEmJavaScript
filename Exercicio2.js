@@ -1,6 +1,7 @@
-//Crie um programa que calcule a idade do usuário. O
-//usuário deve digitar o ano de nascimento e o programa
-//deve exibir quantos anos ele tem.
+/*EXERCÍCIO 2
+  Crie um programa que calcule a idade do usuário. O
+  usuário deve digitar o ano de nascimento e o programa
+  deve exibir quantos anos ele tem.*/
 
 let name = prompt("Digite seu nome: ");
 let anoNasc = prompt("\nDigite o ano que você nasceu: ");
