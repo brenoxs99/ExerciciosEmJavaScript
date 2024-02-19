@@ -8,9 +8,9 @@
      ULTILIZEI NELA O MÉTODO PROMPT(); PARA SOLICITAR DADOS DO USUÁRIO
      ------------------------------------------------------------------*/
 
-    /*let Celsius = prompt('Digite a temperatura em Celsius: ');
+    let Celsius = prompt('Digite a temperatura em Celsius: ');
     let Fahrenheit = (Celsius * 9/5) + 32; 
-    console.log(Celsius + ' graus em Celsius equivalem a ' + Fahrenheit +' graus em Fahrenheit');*/
+    console.log(Celsius + ' graus em Celsius equivalem a ' + Fahrenheit +' graus em Fahrenheit');
 
 
     /*PORÉM SE VOCE ESTÁ RODANDO SEUS "Scripts.js" NO AMBIENTE Node.js 
