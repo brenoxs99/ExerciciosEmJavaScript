@@ -1,7 +1,6 @@
-//Exercicio_5
-//Crie um programa que verifique se um número é par ou
-//ímpar. Solicite um número ao usuário e exiba o resultado.
-
+/*EXERCÍCIO 5
+Crie um programa que verifique se um número é par ou
+ímpar. Solicite um número ao usuário e exiba o resultado.*/
 
 let num = prompt("Digite um numero: ");
 if((num % 2 == 0) && (num != 0)){

@@ -1,5 +1,6 @@
-//Crie um programa que determine se um número é positivo, negativo ou zero. 
-//Solicite um número ao usuário e exiba o resultado.
+/*EXERCÍCIO 1
+Crie um programa que determine se um número é positivo, negativo ou zero. 
+Solicite um número ao usuário e exiba o resultado.*/
 
 //Use o módolo "readLine" se estiver rodando seus códigos em Node.js
 const readline = require('readline');
